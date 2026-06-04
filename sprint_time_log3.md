@@ -33,7 +33,10 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |    5/29      |   2:20    |   TP  |  I added and formatted filler images resurched a carocel |     40      |
 |   6/1   |   2:50  |  TP |  summerised team efforts for the week. Rescoped grid system and made plans.    |    85    |
 |   6/1    |     1:00    |  IM    |  fixed user input program and added ticker function  |      77       |
-|   6/2     |   12:25   |   IM     |                                            |             |
+|   6/2     |   12:25   |   IM     | got and AI generated  prototype for eframe to learn how it works. implamented into a new project to start work on showcase version of timer.   |      83       |
+|  6/3    |  TP   |   3:00  |  wireframed and brainstormed flexbox drag drop json   |     75      |
+|  6/3    |  IM   |   12:50  |                                 |           |
+|        |     |       |                                 |           |
 
 
 

@@ -24,7 +24,8 @@ To recreate the development environment, you need the following software and/or 
 * Download rust 1.95.0 from https://rust-lang.org/tools/install/
 * Enable the "rust" extention from the marketplace on vs code
 * In the vscode terminal type "cargo new (file name)" to create a new cargo rust project.
-* In the cargo.toml file add eframe = "0.27" to accsess the eframe crate.
+* In the cargo.toml file add eframe = "0.27" to specify version of eframe crate.
+* open terminal and type "cargo add eframe" to accsess the eframe crate.
 
 ## Useful Websites to Learn More
 
