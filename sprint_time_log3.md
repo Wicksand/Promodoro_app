@@ -35,7 +35,10 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |   6/1    |     1:00    |  IM    |  fixed user input program and added ticker function  |      77       |
 |   6/2     |   12:25   |   IM     | got and AI generated  prototype for eframe to learn how it works. implamented into a new project to start work on showcase version of timer.   |      83       |
 |  6/3    |  TP   |   3:00  |  wireframed and brainstormed flexbox drag drop json   |     75      |
-|  6/3    |  IM   |   12:50  |                                 |           |
+|  6/3    |  IM   |   12:50  | began intigration of timer into the framework for the window | 62 |
+|   6/5     | IM  |   12:35   | added timer functionality to the ui interface in the eframe code |    100     |
+|    6/7    |   IM  |  9:15  | Added history system to timer as well as used rodio to add sounds to the end of break and end of study timers. |   240   |
+|        |     |       |                                 |           |
 |        |     |       |                                 |           |
 
 

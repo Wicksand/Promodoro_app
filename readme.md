@@ -25,7 +25,9 @@ To recreate the development environment, you need the following software and/or 
 * Enable the "rust" extention from the marketplace on vs code
 * In the vscode terminal type "cargo new (file name)" to create a new cargo rust project.
 * In the cargo.toml file add eframe = "0.27.2" to specify version of eframe crate.
+* In the cargo.toml file add rodio = "0.19" to specify version of rodio cra
 * open terminal and type "cargo add eframe" to accsess the eframe crate.
+* In the terminal type "cargo add rodio" to accsess the rodio crate.
 
 ## Useful Websites to Learn More
 
