@@ -1,3 +1,5 @@
+#![windows_subsystem = "windows"]
+
 //ui prossessing crate
 use std::time::Instant;
 use eframe::egui;
