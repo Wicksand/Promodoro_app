@@ -185,17 +185,6 @@ impl App{
     sink.append(source);
     self.buzzer_sink = Some(sink);
 }
-    
-    /*fn play_buzzer(&mut self) {
-        if let Some(sink) = &self.buzzer_sink {
-            sink.stop();
-        }
-        let sink = Sink::try_new(&self.stream_handle).unwrap();
-        let file = File::open("assets/buzzer.mp3").unwrap();
-        let source = Decoder::new(BufReader::new(file)).unwrap();
-        sink.append(source);
-        self.buzzer_sink = Some(sink);
-    }*/
 }
 
 // starts the eframe
